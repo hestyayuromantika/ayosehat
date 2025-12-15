@@ -1,0 +1,5 @@
+{
+  "name": "Hospital System Navigator",
+  "description": "An Integrated AIS Control system that routes user requests to specialized AI agents for Finance, Medical Records, Patient Info, and Scheduling.",
+  "requestFramePermissions": []
+}
